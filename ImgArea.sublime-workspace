@@ -1,0 +1,1552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"if",
+				"item:before:render"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"resize",
+				"resize"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"overflo",
+				"overflow:   (property)"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"wp_get_a",
+				"wp_get_attachment_image"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"wp_get_attachment_",
+				"wp_get_attachment_metadata"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"g",
+				"getEvents  (function)"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bordder",
+				"border-bottom-width:   (property)"
+			],
+			[
+				"win",
+				"winWidth"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"js",
+				"toJSON"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"box-s",
+				"box-sizing:   (property)"
+			],
+			[
+				"thum",
+				"thumWidth"
+			],
+			[
+				"json_",
+				"json_encode  (function)"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"vi",
+				"visited  (pseudo-class)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"overflow-",
+				"overflow-y:   (property)"
+			],
+			[
+				"mrgin",
+				"margin-left"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"text-t",
+				"text-transform:   (property)"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"letter",
+				"letter-spacing"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"t_",
+				"t_height"
+			],
+			[
+				"on",
+				"onThumVisible"
+			],
+			[
+				"ba",
+				"background	background-color: rgb"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"head",
+				"heading"
+			],
+			[
+				"l",
+				"left	(l)"
+			],
+			[
+				"this",
+				"scope_this"
+			],
+			[
+				"anim",
+				"animate"
+			],
+			[
+				"sales_or_",
+				"sales_or_letting_dropdown"
+			],
+			[
+				"TEXT",
+				"text-transform"
+			],
+			[
+				"pass",
+				"padding-bottom"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"img",
+				"url(image-url.gif)"
+			],
+			[
+				"page",
+				"page_cont"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"child",
+				"nth-child"
+			],
+			[
+				"p",
+				"pointer	(p)"
+			],
+			[
+				"id",
+				"id=  (attribute)"
+			],
+			[
+				"pa",
+				"padding	padding: all"
+			],
+			[
+				"j",
+				"jquery	<script> (jQuery google ajax api)"
+			],
+			[
+				"background-",
+				"background-position:   (property)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/App.js",
+			"settings":
+			{
+				"buffer_size": 1235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/ImgArea.js",
+			"settings":
+			{
+				"buffer_size": 4762,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/TransitionManager.js",
+			"settings":
+			{
+				"buffer_size": 1953,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/ResizeManager.js",
+			"settings":
+			{
+				"buffer_size": 1020,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/js/OneImg.js",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/grunt.js",
+			"settings":
+			{
+				"buffer_size": 381,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/ImgArea.build.js",
+			"settings":
+			{
+				"buffer_size": 8773,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pacl",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Php"
+			],
+			[
+				"forma",
+				"Format: Php"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"omnima",
+				"Preferences: OmniMarkupPreviewer Settings – User"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"paackage",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/OneImgScroll.js",
+		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/OneImgBase.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/ImgArea.build.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea_Manager.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea_OneImg.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea2.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/OneImgResize.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/ImgArea.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgAreaResize.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/grunt.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea_ResizeFunction.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/ImgArea2.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/App.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/lib/spin.js",
+		"/Applications/MAMP/htdocs/_dev/ImgArea/index.html",
+		"/Applications/MAMP/htdocs/test/ImageArea.js",
+		"/Applications/MAMP/htdocs/yuki_answer/index.html",
+		"/Applications/MAMP/htdocs/yuki_answer/js/App.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-brochure.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-century.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-century_for_hire.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-contact.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-events.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-facilities.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-home.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-music.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-membership.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-art.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/css/tiny_mce.less",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/tiny_mce.less",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/tiny_mce.less",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/css/admin/tiny_mce.less",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_contact.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_benefit.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/lib/aq_resizer.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_music.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/role.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/style.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/tiny_mce.css",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/brochure/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/music/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/post_type/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/contact/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/NaviArea.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/style.css",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/post_type/Single.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-benefit.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/membership/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/century/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/home/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/index.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/lib/vt_resize.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/js/core.min.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/FooterArea.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/CurrentEventArea.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/footer.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_event.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_facility.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-music.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-century_for_hire.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-art.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_century_for_hire.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_art.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_century-for-hire.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-event.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/single-facility.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/PostTypeTemplate/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/PostTypeTemplate/Single.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/single/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/single/Single.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/init.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_facilitie.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/events/Single.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/events/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/admin/posttype_press.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/view/SingleSlide,js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/view/Thumbs.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/events/Single.pgp",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/ie8.less",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/.htaccess",
+		"/Users/yk/Downloads/h5bp-html5-boilerplate-defe483/js/main.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/view/page/home/HomeSlide.js",
+		"/Applications/MAMP/htdocs/WebSocket/www_vid/ivideo.html",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/event/Main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/template-event.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/ImageArea.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/SlideAnim.js",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/page/home/main.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/src/js/lib/CreateJS/PreloadJS/examples/assets/font copy.css",
+		"//<",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/admin/wp-content/themes/theme/php/navi.php",
+		"/Applications/MAMP/htdocs/centuryclub.co.uk/www/Untitled.html",
+		"/Applications/MAMP/htdocs/backbone_test/index.html",
+		"/Users/yk/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/Sample XML output 2.xml",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/lib/jquery/plugin/jquery-inviewtoo-master/jquery.inviewtoo.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/js/core.min.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/css/font.less",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/view/page/ProjectView.js",
+		"/Users/yk/Library/Mail/V2/MailData/Signatures/4F5DC73E-FC68-45D6-8588-62F141DF475F.mailsignature",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/footer.php",
+		"/Applications/MAMP/htdocs/ykid.net/www/.htaccess",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/Main.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/Add.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/ImageArea.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/RouterBase.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/lib/backbone/test/router.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/view/page/About.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/view/page/Contact.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/lib/spin.js/spin.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/global.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/js/work.min.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/Navi.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/Layout.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/view/page/Experiment.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/ElBase.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/view/page/PageBase.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/index.php",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/ContentManager.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/src/js/Router.js",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/css/reset.css",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/css/fontLib.less",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/style.css",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/style.less",
+		"/Applications/MAMP/htdocs/ykid.net/www/admin/wp-content/themes/theme/php/admin/posttype_project.php",
+		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"inde",
+			"indent",
+			"RIGHT",
+			"ia.setting.transitionType",
+			"setting",
+			"ia.setting.transitionType",
+			"x",
+			"this",
+			"_r",
+			"resizeType",
+			"_r",
+			"currentIndex",
+			"_r",
+			"startTimer",
+			"that",
+			"_r",
+			"that",
+			"OneImg",
+			"ImgArea",
+			"el",
+			"_r",
+			"p",
+			"imgArea",
+			"goNextImg",
+			"_paramsUpdate",
+			"_onFadeIn",
+			"_loadComplete",
+			"that",
+			"_startTimer",
+			"_Timer",
+			"_height",
+			"_width",
+			"oi",
+			"_bind",
+			"_TL",
+			"_JQ",
+			"that",
+			"_opt",
+			"var",
+			"_JQ",
+			"_TL",
+			"_oneImgArray",
+			"_currentIndex",
+			"_opt",
+			"_root",
+			"opt",
+			"this",
+			"this.setting.resizeType",
+			"_this",
+			"s",
+			"destination",
+			"_paramsUpdate",
+			"this",
+			"obj",
+			"this",
+			"var",
+			"x",
+			"fullname",
+			"myObject",
+			"resize",
+			"this",
+			"that",
+			"$",
+			"jQuery",
+			"$",
+			"i_reg",
+			"==",
+			"default",
+			"this",
+			"merge",
+			"type",
+			"curre",
+			"bold",
+			"h3",
+			"Times",
+			"ss",
+			"aa",
+			"css/",
+			"/admin",
+			"admin",
+			"css",
+			"php/admin/tiny_mce.css",
+			"trailingslashit( plugin_dir_url(__FILE__) ) . '/editor-styles.css'",
+			"font_ss2",
+			"font_ss1",
+			"font_ss0",
+			"ss",
+			"dir_2",
+			"font_l2",
+			"font_l1",
+			"font_l0",
+			"dir_1",
+			"background: #fff;",
+			"contact",
+			"h1",
+			"padding:0 15px",
+			"loadSmallPage",
+			"addPage",
+			"top",
+			" style=\"overflow: auto; height:600px;\"",
+			"magazine-viewport",
+			"addPage",
+			"@site_width",
+			"$pages_width",
+			"p_data",
+			"php",
+			"echo",
+			"$p_pages",
+			"$",
+			"php",
+			"enlarge_ratio",
+			"$post->ID",
+			"vt_re",
+			"vt",
+			"Content",
+			"border",
+			"['url']",
+			"google.maps",
+			"apiLoad([0.00999999977648",
+			"music",
+			"url",
+			"$theme_type",
+			" class=\"<?php echo $theme_type;?>\"",
+			"Benefit",
+			"benefit",
+			"Music",
+			"music",
+			"facility"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"61a804",
+			"00a483",
+			"03ddb3",
+			"opacity_5",
+			"\\i\\.",
+			"i",
+			"\\i\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/App.js",
+					"settings":
+					{
+						"buffer_size": 1235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								613,
+								613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/js/ImgArea.js",
+					"settings":
+					{
+						"buffer_size": 4762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2803,
+								2803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/js/TransitionManager.js",
+					"settings":
+					{
+						"buffer_size": 1953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/js/ResizeManager.js",
+					"settings":
+					{
+						"buffer_size": 1020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								133
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/js/OneImg.js",
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							],
+							[
+								804,
+								804
+							],
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "src/grunt.js",
+					"settings":
+					{
+						"buffer_size": 381,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "js/ImgArea.build.js",
+					"settings":
+					{
+						"buffer_size": 8773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3632.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				0,
+				2,
+				1,
+				3
+			],
+			[
+				0,
+				3,
+				1,
+				4
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.874314553991,
+			0.933,
+			0.967,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 108.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"one",
+				"src/js/OneImgScroll.js"
+			],
+			[
+				"cont",
+				"theme/template-contact.php"
+			],
+			[
+				"conta",
+				"theme/template-contact.php"
+			],
+			[
+				"music",
+				"theme/template-music.php"
+			],
+			[
+				"navi",
+				"theme/php/NaviArea.php"
+			],
+			[
+				"temp",
+				"theme/template-facilities.php"
+			],
+			[
+				"tem",
+				"theme/template-membership.php"
+			],
+			[
+				"main",
+				"www/admin/wp-content/themes/theme/php/page/century/Main.php"
+			],
+			[
+				"aq",
+				"theme/php/lib/aq_resizer.php"
+			],
+			[
+				"vt",
+				"theme/php/lib/vt_resize.php"
+			],
+			[
+				"core",
+				"theme/js/core.min.js"
+			],
+			[
+				"single",
+				"theme/single-benefit.php"
+			],
+			[
+				"navia",
+				"theme/php/NaviArea.php"
+			],
+			[
+				"footer",
+				"theme/php/FooterArea.php"
+			],
+			[
+				"foot",
+				"theme/php/FooterArea.php"
+			],
+			[
+				"curre",
+				"theme/php/CurrentEventArea.php"
+			],
+			[
+				"na",
+				"www/admin/wp-content/themes/theme/php/NaviArea.php"
+			],
+			[
+				"post",
+				"theme/php/admin/posttype_benefit.php"
+			],
+			[
+				"templ",
+				"theme/template-facilities.php"
+			],
+			[
+				"home",
+				"src/js/view/page/home/HomeSlide.js"
+			],
+			[
+				"i",
+				"theme/ie8.less"
+			],
+			[
+				"",
+				"theme/ie8.less"
+			],
+			[
+				"main.php",
+				"www/admin/wp-content/themes/theme/php/page/home/Main.php"
+			],
+			[
+				"image",
+				"src/js/ImageArea.js"
+			],
+			[
+				"sli",
+				"src/js/SlideAnim.js"
+			],
+			[
+				"slide",
+				"src/js/SlideAnim.js"
+			],
+			[
+				"homeslide",
+				"src/js/view/page/home/HomeSlide.js"
+			],
+			[
+				"data",
+				"theme/php/databinding.php"
+			],
+			[
+				"imagea",
+				"src/js/ImageArea.js"
+			],
+			[
+				"font",
+				"theme/css/font.less"
+			],
+			[
+				"project",
+				"src/js/view/page/ProjectView.js"
+			],
+			[
+				"about",
+				"www/src/js/view/page/About.js"
+			],
+			[
+				"global",
+				"www/src/js/global.js"
+			],
+			[
+				"ro",
+				"src/js/lib/backbone/test/router.js"
+			],
+			[
+				"rou",
+				"www/src/js/RouterBase.js"
+			],
+			[
+				"nav",
+				"src/js/Navi.js"
+			],
+			[
+				"layout",
+				"src/js/Layout.js"
+			],
+			[
+				"lay",
+				"src/js/Layout.js"
+			],
+			[
+				"vt_resize",
+				"theme/php/lib/vt_resize.php"
+			],
+			[
+				"ex",
+				"src/js/view/page/Experiment.js"
+			],
+			[
+				"exp",
+				"src/js/view/page/Experiment.js"
+			],
+			[
+				"pageb",
+				"src/js/view/page/PageBase.js"
+			],
+			[
+				"page",
+				"src/js/view/page/PageBase.js"
+			],
+			[
+				"expe",
+				"src/js/view/page/Experiment.js"
+			],
+			[
+				"expr",
+				"theme/php/page/experiment.php"
+			],
+			[
+				"work",
+				"src/js/view/page/Work.js"
+			],
+			[
+				"inde",
+				"www/index.php"
+			],
+			[
+				"wor",
+				"theme/php/page/work.php"
+			],
+			[
+				"res",
+				"theme/css/reset.less"
+			],
+			[
+				"s",
+				"theme/style.less"
+			],
+			[
+				"sty",
+				"theme/style.css"
+			],
+			[
+				"gru",
+				"src/grunt.js"
+			],
+			[
+				"fun",
+				"theme/functions.php"
+			],
+			[
+				"design",
+				"www/admin/wp-content/themes/theme/html/design/design.php"
+			],
+			[
+				"propert",
+				"theme/css/property.css"
+			],
+			[
+				"press",
+				"www/admin/wp-content/themes/theme/html/press/press.php"
+			],
+			[
+				"desi",
+				"theme/html/design/design.php"
+			],
+			[
+				"gener",
+				"www/admin/wp-content/themes/theme/css/general.css"
+			],
+			[
+				"property",
+				"theme/html/portfolio/property.php"
+			],
+			[
+				"full",
+				"theme/js/module/full_width.js"
+			],
+			[
+				"des",
+				"theme/html/design/design.php"
+			],
+			[
+				"p",
+				"theme/css/portfolio.css"
+			],
+			[
+				"content",
+				"theme/css/content.css"
+			],
+			[
+				"your",
+				"theme/html/your_fusion/your_fusion.php"
+			],
+			[
+				"slideshow",
+				"theme/js/module/slideshow.js.php"
+			],
+			[
+				"insp",
+				"www/admin/wp-content/themes/theme/html/inspiration/inspiration.php"
+			],
+			[
+				"conten",
+				"theme/css/content.css"
+			],
+			[
+				"gene",
+				"theme/css/general.css"
+			],
+			[
+				"contact",
+				"theme/js/module/contact.js"
+			],
+			[
+				"menu",
+				"theme/css/menu.css"
+			],
+			[
+				"film",
+				"theme/html/film/film.php"
+			],
+			[
+				"fusion",
+				"theme/html/fusion_fundation/fusion_fundation.php"
+			],
+			[
+				"you",
+				"theme/html/your_fusion/your_fusion.php"
+			],
+			[
+				"page_col",
+				"www/admin/wp-content/themes/theme/js/module/page_columns.js"
+			],
+			[
+				"column",
+				"theme/js/module/page_columns.js"
+			],
+			[
+				"port",
+				"theme/html/portfolio/portfolio.php"
+			],
+			[
+				"tiny",
+				"theme/php/admin/tiny_mce.php"
+			],
+			[
+				"dow",
+				"theme/html/download/download.php"
+			],
+			[
+				"ins",
+				"theme/html/inspiration/inspiration.php"
+			],
+			[
+				"fusio",
+				"theme/html/fusion_fundation/fusion_fundation.php"
+			],
+			[
+				"galler",
+				"theme/html/gallery/gallery.php"
+			],
+			[
+				"gall",
+				"theme/html/gallery/gallery.php"
+			],
+			[
+				"clie",
+				"theme/html/client_care/client_care.php"
+			],
+			[
+				"por",
+				"theme/css/portfolio.css"
+			],
+			[
+				"client",
+				"theme/html/client_care/client_care.php"
+			],
+			[
+				"pro",
+				"theme/html/portfolio/property.php"
+			],
+			[
+				"galle",
+				"theme/html/gallery/gallery.php"
+			],
+			[
+				"g",
+				"theme/html/gallery/gallery.php"
+			],
+			[
+				"prop",
+				"theme/html/portfolio/property.php"
+			],
+			[
+				"wp-con",
+				"www/admin/wp-config.php"
+			],
+			[
+				"m",
+				"theme/js/mc.menu.js"
+			],
+			[
+				"pres",
+				"html/press/press.php"
+			],
+			[
+				"yout",
+				"html/your_fusion/your_fusion.html"
+			],
+			[
+				"ie",
+				"ie8.php"
+			],
+			[
+				"yo",
+				"html/your_fusion/your_fusion.html"
+			],
+			[
+				"develop",
+				"html/developments/developments.php"
+			],
+			[
+				"sl",
+				"js/module/slideshow.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/_dev/MindMap/MindMap.sublime-project"
+			],
+			[
+				"s",
+				"/Applications/MAMP/htdocs/stoneapp.co.uk/stoneapp.sublime-project"
+			],
+			[
+				"paul",
+				"/Applications/MAMP/htdocs/paulbelchak.com/paulbelchak.sublime-project"
+			]
+		],
+		"width": 881.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": false
+}
