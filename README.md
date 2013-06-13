@@ -1,4 +1,4 @@
 ImgArea.js
 ==========
 
-Image Resizing Library (work in progress, but let me know what you think)
+demo: http://dev.ykid.net/_dev/ImgArea/index.html
