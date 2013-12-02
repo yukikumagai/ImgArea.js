@@ -40,7 +40,6 @@
 
 
         resize:function(){
-
           this.el.width(this.width);
           this.el.height(this.height);
 

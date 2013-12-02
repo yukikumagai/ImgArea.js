@@ -379,7 +379,7 @@
 			"file": "src/js/ImgArea.js",
 			"settings":
 			{
-				"buffer_size": 4762,
+				"buffer_size": 4921,
 				"line_ending": "Unix"
 			}
 		},
@@ -403,7 +403,7 @@
 			"file": "src/js/OneImg.js",
 			"settings":
 			{
-				"buffer_size": 1035,
+				"buffer_size": 1034,
 				"line_ending": "Unix"
 			}
 		},
@@ -424,10 +424,10 @@
 			}
 		},
 		{
-			"file": "js/ImgArea.build.js",
+			"file": "src/Gruntfile.js",
 			"settings":
 			{
-				"buffer_size": 8773,
+				"buffer_size": 434,
 				"line_ending": "Unix"
 			}
 		}
@@ -512,12 +512,12 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/_dev/ImgArea/js/ImgArea.build.js",
 		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/OneImgScroll.js",
 		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
 		"/Users/yk/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/OneImgBase.js",
-		"/Applications/MAMP/htdocs/_dev/ImgArea/js/ImgArea.build.js",
 		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea_Manager.js",
 		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea_OneImg.js",
 		"/Applications/MAMP/htdocs/_dev/ImgArea/src/js/ImgArea2.js",
@@ -658,6 +658,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"log",
 			"inde",
 			"indent",
 			"RIGHT",
@@ -784,8 +785,7 @@
 			"Benefit",
 			"benefit",
 			"Music",
-			"music",
-			"facility"
+			"music"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -810,7 +810,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -846,15 +846,15 @@
 					"file": "src/js/ImgArea.js",
 					"settings":
 					{
-						"buffer_size": 4762,
+						"buffer_size": 4921,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2803,
-								2803
+								3756,
+								3756
 							]
 						],
 						"settings":
@@ -864,7 +864,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2823.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -881,8 +881,8 @@
 						"selection":
 						[
 							[
-								394,
-								394
+								1813,
+								1813
 							]
 						],
 						"settings":
@@ -892,7 +892,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 890.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -920,7 +920,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 14.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -930,15 +930,15 @@
 					"file": "src/js/OneImg.js",
 					"settings":
 					{
-						"buffer_size": 1035,
+						"buffer_size": 1034,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								144,
-								144
+								323,
+								323
 							]
 						],
 						"settings":
@@ -971,16 +971,8 @@
 						"selection":
 						[
 							[
-								642,
-								642
-							],
-							[
-								804,
-								804
-							],
-							[
-								848,
-								848
+								785,
+								785
 							]
 						],
 						"settings":
@@ -990,7 +982,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 78.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -998,7 +990,7 @@
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1013,8 +1005,8 @@
 						"selection":
 						[
 							[
-								183,
-								183
+								381,
+								0
 							]
 						],
 						"settings":
@@ -1028,41 +1020,38 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 7,
-					"file": "js/ImgArea.build.js",
+					"file": "src/Gruntfile.js",
 					"settings":
 					{
-						"buffer_size": 8773,
+						"buffer_size": 434,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								433,
+								433
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 3632.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				}
+			]
+		},
+		{
+			"sheets":
+			[
 			]
 		}
 	],
@@ -1111,7 +1100,7 @@
 		"rows":
 		[
 			0.0,
-			0.874314553991,
+			0.9,
 			0.933,
 			0.967,
 			1.0
@@ -1132,6 +1121,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"grun",
+				"src/Gruntfile.js"
+			],
 			[
 				"one",
 				"src/js/OneImgScroll.js"
@@ -1530,7 +1523,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/_dev/MindMap/MindMap.sublime-project"
+				"/Applications/MAMP/htdocs/Ace&Lion/acelion.sublime-project"
 			],
 			[
 				"s",
@@ -1546,7 +1539,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 233.0,
 	"status_bar_visible": false
 }

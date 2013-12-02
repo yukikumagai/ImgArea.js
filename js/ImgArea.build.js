@@ -16,10 +16,8 @@
     fadeInSpeed: 0.3,
     transitionSpeed: 1, // In seconds
 
-
     transitionType: 'CROSS_FADE',
     resizeType: 'CENTER_CROP',
-
 
     fadeInEasing: Power0.easeOut, 
     transitionEasing: Power2.easeInOut,
@@ -48,7 +46,7 @@
  
 
   P._initialize = function(opt){
-
+    this._oneImgArray = [];
     this._paramsUpdate(opt);
     // get width(){ return _r.width; },
     // set width(v){ _r.width = v; this.resize.apply(this); },
@@ -61,11 +59,20 @@
     try{
 
       Object.defineProperty(this, 'width', {
+
+       // value : 0,
+        //writable : true,
+       // enumerable : true,
+      //  configurable : true,
+
         get: function(){return this._width;},
         set: function(v){
           this._width = v;  
           this.resize.apply(this);
-        }
+        } 
+
+    
+
       });
 
       Object.defineProperty(this, 'height', {
@@ -74,6 +81,9 @@
           this._height = v;  
           this.resize.apply(this);
         }
+ 
+
+
       });
 
     }catch(error){
@@ -129,6 +139,7 @@
 
     var oi;
     oi = new this.OneImg(this);
+          
 
     // if(this.setting.transitionType == 'CROSS_FADE') oi = new this.OneImg(this);
     // if(this.setting.transitionType == 'SCROLL_RIGHT') oi = new this.OneImgScroll(this);
@@ -185,7 +196,7 @@
       this.el.width(this.width); 
       this.el.height(this.height);
 
-
+ 
       for (var i = 0; i < this._oneImgArray.length; i++) {
         this._oneImgArray[i].width = this.width;
         this._oneImgArray[i].height = this.height;
@@ -301,7 +312,6 @@
 
 
         resize:function(){
-
           this.el.width(this.width);
           this.el.height(this.height);
 
